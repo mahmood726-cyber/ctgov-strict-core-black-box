@@ -1,0 +1,27 @@
+Mahmood Ahmad
+Tahir Heart Institute
+author@example.com
+
+CT.gov Strict-Core Black-Box
+
+Where does the black-box problem remain inside the strict U.S.-nexus CT.gov core rather than the broader older-study universe? We analysed the 58,598-study strict U.S.-nexus drug-biological-device proxy extracted from the March 29, 2026 full-registry snapshot. Using the wave-nine strict-core watchlist, we ranked named sponsors and sponsor classes by black-box stock and rate inside that regulated-looking subset. Industry held the largest strict-core black-box stock at 3,001 studies, while Bayer led the named strict-core black-box table at 122 studies. Novartis Pharmaceuticals and Bristol-Myers Squibb followed on named stock, while NETWORK remained sharper than OTHER on no-results rate even with low black-box stock. The strict-core black-box problem therefore remains industry-heavy on deep-silence stock even inside a subset that already lowers the overall missing-results rate and still leaves a clearly concentrated industrial deep-silence stock behind for scrutiny. These strict-core black-box tables sit inside a conservative proxy subset and are not formal ACT or FDAAA legal determinations for specific sponsors or studies.
+
+Outside Notes
+
+Type: methods
+Primary estimand: Named-sponsor and sponsor-class black-box stock inside the strict U.S.-nexus proxy core
+App: CT.gov Strict-Core Black-Box dashboard
+Data: 58,598-study strict U.S.-nexus drug-biological-device proxy extracted from the older closed interventional CT.gov universe
+Code: https://github.com/mahmood726-cyber/ctgov-strict-core-black-box
+Version: 1.0.0
+Validation: FULL REGISTRY RUN
+
+References
+
+1. ClinicalTrials.gov API v2. National Library of Medicine. Accessed March 29, 2026.
+2. DeVito NJ, Bacon S, Goldacre B. Compliance with legal requirement to report clinical trial results on ClinicalTrials.gov: a cohort study. Lancet. 2020;395(10221):361-369.
+3. Zarin DA, Tse T, Williams RJ, Carr S. Trial reporting in ClinicalTrials.gov. N Engl J Med. 2016;375(20):1998-2004.
+
+AI Disclosure
+
+This work represents a compiler-generated evidence micro-publication built from structured registry data and deterministic summary code. AI was used as a constrained coding and drafting assistant for interface generation, packaging, and prose refinement, not as an autonomous author. The analytical choices, interpretation, and final outputs were reviewed by the author, who takes responsibility for the content.
